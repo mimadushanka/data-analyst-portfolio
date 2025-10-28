@@ -1,3 +1,36 @@
+# ---- Site settings ----
+title: "Isuru Madushanka Muhandiramalage"
+description: >-
+Data Analyst • AI/ML Enthusiast. Analytics, SQL, Tableau, Snowflake, Python.
+baseurl: "" # keep empty for user/ORG pages
+url: "https://mimadushanka.github.io" # update if using a project page
+
+
+# ---- Theme ----
 theme: jekyll-theme-minimal
-title: Isuru Madushanka Muhandiramalage
-description: Bookmark this to keep an eye on my project updates!
+logo: /assets/avatar.png # optional; add an image or remove this line
+show_downloads: true
+
+
+# ---- Author / Social ----
+author: Isuru Madushanka Muhandiramalage
+email: isuru1234.is.madushanka@gmail.com
+github_username: mimadushanka
+linkedin_username: isuru-madushanka
+
+
+# ---- Navigation (header links) ----
+# Minimal supports static links via the header_pages list
+header_pages:
+- index.md
+- projects.md
+
+
+# ---- Markdown settings ----
+markdown: kramdown
+kramdown:
+input: GFM
+
+
+# ---- Plugins (optional) ----
+plugins: []
