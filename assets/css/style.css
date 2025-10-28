@@ -1,0 +1,8 @@
+img[alt*="logo"], .logo img {
+  border-radius: 50%;    /* makes image circular */
+  width: 150px;           /* adjust size if needed */
+  height: 150px;
+  object-fit: cover;      /* ensures it crops nicely */
+  display: block;
+  margin: 0 auto;         /* centers the image */
+}
