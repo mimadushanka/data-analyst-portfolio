@@ -1,29 +1,3 @@
-# ---- Site settings ----
-title: "Isuru Madushanka Muhandiramalage"
-description: "Data Analyst • AI/ML Enthusiast. Analytics, SQL, Tableau, Snowflake, Python."
-baseurl: ""  # keep empty for user/ORG pages
-url: "https://mimadushanka.github.io"  # update if using a project page
-
-# ---- Theme ----
 theme: jekyll-theme-minimal
-logo: /assets/avatar.png  # optional; remove if you don’t have this file
-show_downloads: true
-
-# ---- Author / Social ----
-author: "Isuru Madushanka Muhandiramalage"
-email: "isuru1234.is.madushanka@gmail.com"
-github_username: "mimadushanka"
-linkedin_username: "isuru-madushanka"
-
-# ---- Navigation (header links) ----
-header_pages:
-  - index.md
-  - projects.md
-
-# ---- Markdown settings ----
-markdown: kramdown
-kramdown:
-  input: GFM
-
-# ---- Plugins (optional) ----
-plugins: []
+title: Octocat's homepage
+description: Bookmark this to keep an eye on my project updates!
