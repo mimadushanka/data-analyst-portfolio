@@ -1,12 +1,21 @@
-# Data Scientist
+# Data analyst with 4+ years of experience transforming large-scale telecom data into actionable insights. Skilled in SQL, Tableau,
+# Excel, and Snowflake; delivered automated reporting for 1M+ users, built KPI dashboards, and reduced dispute rates by 80%,
+# improving operational efficiency and decision-making.
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills:
+##### Analytics : SQL, Excel (VLOOKUP, Pivot Tables), Data Cleaning/ETL
+##### Visualization : Tableau (dashboards, storytelling), R Studio, Matplotlib/Seaborn
+##### Data Platforms : Snowflake, MySQL, Oracle, Hadoop
+##### Python : Pandas, NumPy, scikit-learn; Jupyter
+##### Cloud/Dev : AWS, Git, VS Code, Jupyter Notebook, Docker, Kubernetes
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
-
+- Southern Arkansas University Magnolia, AR, USA
+- MSc in Computer and Info: Science With Sp: Data Science GPA:3.9 Jan 2024 – Aug 2025
+- University of Kelaniya Colombo, Sri Lanka
+- B.Sc in Computer Science,Chemistry,Zoology Jan 2014 – Feb 2017
+- University of Colombo Colombo, Sri Lanka
+- Associate in IT Jan 2015 – Dec 2017
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
 - Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
@@ -16,39 +25,38 @@
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
 - Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
 
+**Graduate Research Assistant Mar 2025 - July 2025**
+   Southern Arkansas University Magnolia,AR
+  - Experimented with methods to reduce reinforcement learning training time and computational cost by incorporating persistent homological features.
+**IT Executive – Converged Billing Apr 2018 – Dec 2022**
+Hutchison & Etisalat Telecommunications Colombo,Sri Lanka
+-  Managed billing for 1M+ users using SQL on Linux; ensured accurate, on-time invoice generation.
+- Built, Automated and Reconciled reports from raw roaming and interconnect data using Excel VLOOKUP, Pivot Tables
+and formulas to support finance with cutting dispute rate from 80% and accelerating revenue recovery.
+- Investigated large-scale data and configuration issues; reduced recurring billing errors and improved charging
+accuracy.
+- Defined and monitored KPIs and alerts; partnered with stakeholders to resolve anomalies.
+Software Engineer-Intern Aug 2017 - Mar 2018
+**Virtusa Colombo, Sri Lanka**
+- Supported backend modules with Oracle SQL and REST services; improved data access and integrations.
+
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
-
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
-
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
-
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
-
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
-
-![Bike Study](/assets/img/bike_study.jpeg)
-
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
+### Bangalore House Price Prediction Web App Python,ML,Git,AWS EC2,Flask Source Code
+- Cleaned and modeled housing data using Pandas, scikit-learn; engineered features and trained Linear Regression,
+validated with cross-validation and predicted the price on sqft, neighborhood and bathrooms.
+### ML Analysis of EVs inWashington Data Visualization,matplotlib,pandas,Machine Learning Algorithms Source Code
+- Cleaned and analyzed statewide EV registrations; ran EDA and trend analysis, used PCA and k-means to segment
+patterns, and quantified adoption drivers with regression and DNN ; delivered clear visuals and takeaways.
+### Data Visualization Case Study Jupyter,Python, data Storytelling, Data Visualization Source Code
+- Consolidated multiple Excel datasets; built Pandas, Matplotlib, Seaborn visuals to tell a clear story with KPIs and
+actionable insights for decision-making.
 
 
-## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
-4. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
-5. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
-6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
-7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
-8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
 
-- [Data Science Blog](https://medium.com/@shawhin)
+## Certifications
+-  Fund: Visualization with Tableau —UC Davis (Dashboards; Interactive Viz; Data Storytelling; Data Prep) Certificate
+-  Visual Analytics with Tableau—UC Davis (Advanced Analytics; Time Series Forecasting) Certificate
+-  Snowflake Data Engineering — Snowflake (ETL; Pipelines; CI/CD; Warehousing; Analysis) Certificate
+-  AWS Certified Cloud Practitioner —AWS (IAM; EC2,S3,RDS,Lambda;Cost Mgmt) Certificate
+-  Backend Developer—Meta (SQL; DB Mgmt; Django; Git; APIs) Certificate
+Other Certifications — on LinkedIn
