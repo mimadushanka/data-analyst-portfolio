@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Isuru Madushanka
+# Hi, I'm Isuru Madushanka
 **Data Analyst | Data Scientist | M/L Engineer**
 
 > **Data analyst with 4+ years of experience transforming large-scale telecom data into actionable insights.**  
@@ -6,7 +6,7 @@
 
 ---
 
-## 🧠 Technical Skills
+## Technical Skills
 
 | Category | Tools & Technologies |
 |-----------|----------------------|
@@ -18,7 +18,7 @@
 
 ---
 
-## 🎓 Education
+## Education
 
 **M.Sc. in Computer and Information Science (Specialization: Data Science)**  
 _Southern Arkansas University, Magnolia, AR, USA_  
@@ -34,7 +34,7 @@ _University of Colombo, Sri Lanka_
 
 ---
 
-## 💼 Work Experience
+## Work Experience
 
 ### **Graduate Research Assistant — Southern Arkansas University**  
 📅 _Mar 2025 – Jul 2025_  
@@ -53,13 +53,13 @@ _University of Colombo, Sri Lanka_
 
 ---
 
-## 🚀 Projects
+## Projects
 
-### 🏠 Bangalore House Price Prediction  
+### Bangalore House Price Prediction  
 **Python | Machine Learning | Flask | AWS EC2 | Git**  
 - Cleaned and modeled housing data using Pandas & scikit-learn.  
 - Built and deployed a web app predicting price based on sqft, neighborhood, and bathrooms.  
-📂 [Source Code](#)
+   [Source Code](#)
 
 ---
 
@@ -67,19 +67,19 @@ _University of Colombo, Sri Lanka_
 **Python | Data Visualization | Machine Learning | Pandas | Matplotlib**  
 - Cleaned and analyzed statewide EV registration data.  
 - Performed EDA, PCA, and k-means clustering to identify adoption trends and drivers.  
-📂 [Source Code](#)
+   [Source Code](#)
 
 ---
 
-### 📊 Data Visualization Case Study  
+### Data Visualization Case Study  
 **Python | Jupyter | Matplotlib | Seaborn | Data Storytelling**  
 - Consolidated multi-sheet Excel datasets into a single analytics workflow.  
 - Built dashboards to deliver actionable business insights and KPIs.  
-📂 [Source Code](#)
+  [Source Code](#)
 
 ---
 
-## 🏅 Certifications
+## Certifications
 
 - **Fundamentals: Visualization with Tableau** — UC Davis *(Dashboards, Storytelling, Data Prep)*  
 - **Visual Analytics with Tableau** — UC Davis *(Advanced Analytics, Forecasting)*  
@@ -90,13 +90,8 @@ _University of Colombo, Sri Lanka_
 
 ---
 
-## 🌐 Connect with Me
-
-[![LinkedIn]](https://www.linkedin.com/in/isuru-madushanka/)  
-[![GitHub](https://github.com/mimadushanka)  
+## Connect with Me
 📧 **Email:** isuru1234.is.madushanka@gmail.com  
 📍 Richardson, TX, USA  
 
 ---
-
-⭐ _“Turning complex data into clear insights and impactful stories.”_  
