@@ -1,5 +1,5 @@
 # Hi, I'm Isuru Madushanka
-**Data Analyst | Data Scientist | M/L Engineer**
+**Data Analyst**
 
 > **Data analyst with 4+ years of experience transforming large-scale telecom data into actionable insights.**  
 > Skilled in SQL, Tableau, Excel, and Snowflake; delivered automated reporting for 1M+ users, built KPI dashboards, and reduced dispute rates by 80%, improving operational efficiency and decision-making.
@@ -22,52 +22,52 @@
 
 **M.Sc. in Computer and Information Science (Specialization: Data Science)**  
 _Southern Arkansas University, Magnolia, AR, USA_  
- Jan 2024 – Aug 2025 | GPA: **3.9**
+ _Jan 2024 – Aug 2025 | GPA: 3.9_
 
 **B.Sc. in Computer Science, Chemistry, Zoology**  
 _University of Kelaniya, Colombo, Sri Lanka_  
- Jan 2014 – Feb 2017  
+ _Jan 2014 – Feb 2017_  
 
 **Associate in Information Technology**  
 _University of Colombo, Sri Lanka_  
- Jan 2015 – Dec 2017  
+ _Jan 2015 – Dec 2017_  
 
 ---
 
 ## Work Experience
 
 ### **Graduate Research Assistant — Southern Arkansas University**  
-Mar 2025 – Jul 2025_  
+_Mar 2025 – Jul 2025_ | _Magnolia, AR_ 
 - Reduced reinforcement learning training time and computational cost by integrating persistent homological features.  
 
 ### **IT Executive (Converged Billing) — Hutchison & Etisalat Telecommunications**  
-Apr 2018 – Dec 2022_ | Colombo, Sri Lanka  
+_Apr 2018 – Dec 2022_ | _Colombo, Sri Lanka_  
 - Managed billing for 1M+ users using SQL on Linux, ensuring accurate and timely invoicing.  
 - Automated Excel reports (VLOOKUP, Pivot Tables) reducing dispute rate by **80%** and accelerating revenue recovery.  
 - Resolved large-scale data and configuration issues, improving billing accuracy and operational efficiency.  
 - Defined KPIs, built alerts, and collaborated with stakeholders to resolve anomalies.  
 
 ### **Software Engineer Intern — Virtusa**  
-Aug 2017 – Mar 2018_ | Colombo, Sri Lanka  
+_Aug 2017 – Mar 2018 | Colombo, Sri Lanka_  
 - Supported backend modules with Oracle SQL and REST services to enhance data access and integrations.
 
 ---
 
 ## Projects
 
-### Bangalore House Price Prediction  
-**Python | Machine Learning | Flask | AWS EC2 | Git**  
-- Cleaned and modeled housing data using Pandas & scikit-learn.  
-- Built and deployed a web app predicting price based on sqft, neighborhood, and bathrooms.  
-   [Source Code](https://github.com/mimadushanka/Bangalore_House_Price_Prediction_Flask)
-
----
-
 ### ML Analysis of EVs inWashington  
 **Python | Data Visualization | Machine Learning | Pandas | Matplotlib**  
 - Cleaned and analyzed statewide EV registration data.  
 - Performed EDA, PCA, and k-means clustering to identify adoption trends and drivers.  
    [Source Code](https://github.com/mimadushanka/Machine-Learning-Analysis-of-Registered-Electric-Vehicles-in-Washington-State)
+  
+---
+
+### Coffee Sales Dashboard Development  
+**Excel | Pivot Tables | Data Modeling | XLOOKUP**  
+-Modeled, cleaned and integrated records across three desperate datasets to develop a dynamic sales dashboard.
+-tracked core KPIs, performed segmentation analysis that identified the Top 5 High-Value Customers.
+   [Source Code](https://github.com/mimadushanka/CoffeOrdersDataExcel/tree/main)
 
 ---
 
@@ -75,7 +75,7 @@ Aug 2017 – Mar 2018_ | Colombo, Sri Lanka
 **Python | Jupyter | Matplotlib | Seaborn | Data Storytelling**  
 - Consolidated multi-sheet Excel datasets into a single analytics workflow.  
 - Built dashboards to deliver actionable business insights and KPIs.  
-  [Source Code](https://github.com/mimadushanka/CoffeOrdersDataExcel)
+  [Source Code](https://github.com/mimadushanka/Interactive-Data-Visualization-Case-Study-for-a-Hypothetical-Vacation-Management-Company)
 
 ---
 
