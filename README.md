@@ -46,7 +46,7 @@ _University of Colombo, Sri Lanka_
 **Excel | Pivot Tables | Data Modeling | XLOOKUP**  
 -Modeled, cleaned and integrated records across three desperate datasets to develop a dynamic sales dashboard.
 -tracked core KPIs, performed segmentation analysis that identified the Top 5 High-Value Customers.
-- ![EV PCA biplot](assets/img/exceldashboard.gif "PCA of EV features")
+![EV PCA biplot](assets/img/exceldashboard.gif "Coffee Sales Dashboard")
  
 
 ---
