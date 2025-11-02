@@ -22,34 +22,34 @@
 
 **M.Sc. in Computer and Information Science (Specialization: Data Science)**  
 _Southern Arkansas University, Magnolia, AR, USA_  
-📅 Jan 2024 – Aug 2025 | GPA: **3.9**
+ Jan 2024 – Aug 2025 | GPA: **3.9**
 
 **B.Sc. in Computer Science, Chemistry, Zoology**  
 _University of Kelaniya, Colombo, Sri Lanka_  
-📅 Jan 2014 – Feb 2017  
+ Jan 2014 – Feb 2017  
 
 **Associate in Information Technology**  
 _University of Colombo, Sri Lanka_  
-📅 Jan 2015 – Dec 2017  
+ Jan 2015 – Dec 2017  
 
 ---
 
 ## Work Experience
 
 ### **Graduate Research Assistant — Southern Arkansas University**  
-📅 _Mar 2025 – Jul 2025_  
-- Reduced reinforcement learning training time and computational cost by integrating **persistent homological features**.  
+Mar 2025 – Jul 2025_  
+- Reduced reinforcement learning training time and computational cost by integrating persistent homological features.  
 
 ### **IT Executive (Converged Billing) — Hutchison & Etisalat Telecommunications**  
-📅 _Apr 2018 – Dec 2022_ | Colombo, Sri Lanka  
-- Managed billing for **1M+ users** using SQL on Linux, ensuring accurate and timely invoicing.  
+Apr 2018 – Dec 2022_ | Colombo, Sri Lanka  
+- Managed billing for 1M+ users using SQL on Linux, ensuring accurate and timely invoicing.  
 - Automated Excel reports (VLOOKUP, Pivot Tables) reducing dispute rate by **80%** and accelerating revenue recovery.  
 - Resolved large-scale data and configuration issues, improving billing accuracy and operational efficiency.  
 - Defined KPIs, built alerts, and collaborated with stakeholders to resolve anomalies.  
 
 ### **Software Engineer Intern — Virtusa**  
-📅 _Aug 2017 – Mar 2018_ | Colombo, Sri Lanka  
-- Supported backend modules with **Oracle SQL** and **REST services** to enhance data access and integrations.
+Aug 2017 – Mar 2018_ | Colombo, Sri Lanka  
+- Supported backend modules with Oracle SQL and REST services to enhance data access and integrations.
 
 ---
 
@@ -59,15 +59,15 @@ _University of Colombo, Sri Lanka_
 **Python | Machine Learning | Flask | AWS EC2 | Git**  
 - Cleaned and modeled housing data using Pandas & scikit-learn.  
 - Built and deployed a web app predicting price based on sqft, neighborhood, and bathrooms.  
-   [Source Code](#)
+   [Source Code](https://github.com/mimadushanka/Bangalore_House_Price_Prediction_Flask)
 
 ---
 
-### ⚡ EV Analysis in Washington  
+### ML Analysis of EVs inWashington  
 **Python | Data Visualization | Machine Learning | Pandas | Matplotlib**  
 - Cleaned and analyzed statewide EV registration data.  
 - Performed EDA, PCA, and k-means clustering to identify adoption trends and drivers.  
-   [Source Code](#)
+   [Source Code](https://github.com/mimadushanka/Machine-Learning-Analysis-of-Registered-Electric-Vehicles-in-Washington-State)
 
 ---
 
@@ -75,7 +75,7 @@ _University of Colombo, Sri Lanka_
 **Python | Jupyter | Matplotlib | Seaborn | Data Storytelling**  
 - Consolidated multi-sheet Excel datasets into a single analytics workflow.  
 - Built dashboards to deliver actionable business insights and KPIs.  
-  [Source Code](#)
+  [Source Code](https://github.com/mimadushanka/CoffeOrdersDataExcel)
 
 ---
 
@@ -91,7 +91,7 @@ _University of Colombo, Sri Lanka_
 ---
 
 ## Connect with Me
-📧 **Email:** isuru1234.is.madushanka@gmail.com  
-📍 Richardson, TX, USA  
+**Email:** isuru1234.is.madushanka@gmail.com  
+Richardson, TX, USA  
 
 ---
