@@ -43,6 +43,7 @@ _University of Colombo, Sri Lanka_
 
 ### Coffee Sales Dashboard Development    
 [Source Code](https://github.com/mimadushanka/CoffeOrdersDataExcel/tree/main)
+
 **Excel | Pivot Tables | Data Modeling | XLOOKUP**  
 -Modeled, cleaned and integrated records across three desperate datasets to develop a dynamic sales dashboard.
 -tracked core KPIs, performed segmentation analysis that identified the Top 5 High-Value Customers.
