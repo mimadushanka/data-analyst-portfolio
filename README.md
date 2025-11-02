@@ -36,18 +36,22 @@ _University of Colombo, Sri Lanka_
 [Source Code](https://github.com/mimadushanka/Machine-Learning-Analysis-of-Registered-Electric-Vehicles-in-Washington-State)
   
 **Python | Data Visualization | Machine Learning | Pandas | Matplotlib**  
-- Cleaned and analyzed statewide EV registration data.  
-- Performed EDA, PCA, and k-means clustering to identify adoption trends and drivers.
+-Cleaned and analyzed statewide EV registrations.
+-ran EDA and trend analysis, used PCA and k-means to segment patterns, and quantified adoption drivers with regression and DNN.
+-delivered clear visuals and takeaways.
+![elbowmethod](assets/img/ml1.png "elbowmethod for optimal k")
+
+![pca](assets/img/ml2.png "pca clustering")
  
 ---
 
 ### Coffee Sales Dashboard Development    
 [Source Code](https://github.com/mimadushanka/CoffeOrdersDataExcel/tree/main)
 
-**Excel | Pivot Tables | Data Modeling | XLOOKUP**  
+**Excel | Pivot Tables | Data Modeling | XLOOKUP | Dashboard**  
 -Modeled, cleaned and integrated records across three desperate datasets to develop a dynamic sales dashboard.
 -tracked core KPIs, performed segmentation analysis that identified the Top 5 High-Value Customers.
-![EV PCA biplot](assets/img/exceldashboard.gif "Coffee Sales Dashboard")
+![coffeedashboard](assets/img/exceldashboard.gif "Coffee Sales Dashboard")
  
 
 ---
