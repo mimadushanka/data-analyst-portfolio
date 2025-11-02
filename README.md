@@ -1,9 +1,4 @@
-# Hi, I'm Isuru Madushanka
 **Data Analyst**
-
-> **Data analyst with 4+ years of experience transforming large-scale telecom data into actionable insights.**  
-> Skilled in SQL, Tableau, Excel, and Snowflake; delivered automated reporting for 1M+ users, built KPI dashboards, and reduced dispute rates by 80%, improving operational efficiency and decision-making.
-
 ---
 
 ## Technical Skills
@@ -34,24 +29,6 @@ _University of Colombo, Sri Lanka_
 
 ---
 
-## Work Experience
-
-### **Graduate Research Assistant — Southern Arkansas University**  
-_Mar 2025 – Jul 2025_ | _Magnolia, AR_ 
-- Reduced reinforcement learning training time and computational cost by integrating persistent homological features.  
-
-### **IT Executive (Converged Billing) — Hutchison & Etisalat Telecommunications**  
-_Apr 2018 – Dec 2022_ | _Colombo, Sri Lanka_  
-- Managed billing for 1M+ users using SQL on Linux, ensuring accurate and timely invoicing.  
-- Automated Excel reports (VLOOKUP, Pivot Tables) reducing dispute rate by **80%** and accelerating revenue recovery.  
-- Resolved large-scale data and configuration issues, improving billing accuracy and operational efficiency.  
-- Defined KPIs, built alerts, and collaborated with stakeholders to resolve anomalies.  
-
-### **Software Engineer Intern — Virtusa**  
-_Aug 2017 – Mar 2018 | Colombo, Sri Lanka_  
-- Supported backend modules with Oracle SQL and REST services to enhance data access and integrations.
-
----
 
 ## Projects
 
@@ -76,6 +53,25 @@ _Aug 2017 – Mar 2018 | Colombo, Sri Lanka_
 - Consolidated multi-sheet Excel datasets into a single analytics workflow.  
 - Built dashboards to deliver actionable business insights and KPIs.  
   [Source Code](https://github.com/mimadushanka/Interactive-Data-Visualization-Case-Study-for-a-Hypothetical-Vacation-Management-Company)
+
+---
+
+## Work Experience
+
+### **Graduate Research Assistant — Southern Arkansas University**  
+_Mar 2025 – Jul 2025_ | _Magnolia, AR_ 
+- Reduced reinforcement learning training time and computational cost by integrating persistent homological features.  
+
+### **IT Executive (Converged Billing) — Hutchison & Etisalat Telecommunications**  
+_Apr 2018 – Dec 2022_ | _Colombo, Sri Lanka_  
+- Managed billing for 1M+ users using SQL on Linux, ensuring accurate and timely invoicing.  
+- Automated Excel reports (VLOOKUP, Pivot Tables) reducing dispute rate by 80% and accelerating revenue recovery.  
+- Resolved large-scale data and configuration issues, improving billing accuracy and operational efficiency.  
+- Defined KPIs, built alerts, and collaborated with stakeholders to resolve anomalies.  
+
+### **Software Engineer Intern — Virtusa**  
+_Aug 2017 – Mar 2018 | Colombo, Sri Lanka_  
+- Supported backend modules with Oracle SQL and REST services to enhance data access and integrations.
 
 ---
 
