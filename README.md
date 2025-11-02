@@ -32,28 +32,32 @@ _University of Colombo, Sri Lanka_
 
 ## Projects
 
-### ML Analysis of EVs inWashington  
+### ML Analysis of EVs inWashington   
+[Source Code](https://github.com/mimadushanka/Machine-Learning-Analysis-of-Registered-Electric-Vehicles-in-Washington-State)
+  
 **Python | Data Visualization | Machine Learning | Pandas | Matplotlib**  
 - Cleaned and analyzed statewide EV registration data.  
-- Performed EDA, PCA, and k-means clustering to identify adoption trends and drivers.  
-   [Source Code](https://github.com/mimadushanka/Machine-Learning-Analysis-of-Registered-Electric-Vehicles-in-Washington-State)
-  
+- Performed EDA, PCA, and k-means clustering to identify adoption trends and drivers.
+ 
 ---
 
-### Coffee Sales Dashboard Development  
+### Coffee Sales Dashboard Development    
+[Source Code](https://github.com/mimadushanka/CoffeOrdersDataExcel/tree/main)
 **Excel | Pivot Tables | Data Modeling | XLOOKUP**  
 -Modeled, cleaned and integrated records across three desperate datasets to develop a dynamic sales dashboard.
 -tracked core KPIs, performed segmentation analysis that identified the Top 5 High-Value Customers.
-   [Source Code](https://github.com/mimadushanka/CoffeOrdersDataExcel/tree/main)
+- ![EV PCA biplot](assets/img/exceldashboard.gif "PCA of EV features")
+ 
 
 ---
 
-### Data Visualization Case Study  
+### Data Visualization Case Study 
+[Source Code](https://github.com/mimadushanka/Interactive-Data-Visualization-Case-Study-for-a-Hypothetical-Vacation-Management-Company)
+
 **Python | Jupyter | Matplotlib | Seaborn | Data Storytelling**  
 - Consolidated multi-sheet Excel datasets into a single analytics workflow.  
 - Built dashboards to deliver actionable business insights and KPIs.  
-  [Source Code](https://github.com/mimadushanka/Interactive-Data-Visualization-Case-Study-for-a-Hypothetical-Vacation-Management-Company)
-
+ 
 ---
 
 ## Work Experience
