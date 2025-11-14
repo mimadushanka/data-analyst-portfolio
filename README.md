@@ -96,7 +96,7 @@ _Aug 2017 – Mar 2018 | Colombo, Sri Lanka_
 ---
 
 ## Connect with Me
-**Email:** isuru1234.is.madushanka@gmail.com  
-Richardson, TX, USA  
+**Email:** isurum.mu@gmail.com  
+Dallas-Fortworth, USA  
 
 ---
